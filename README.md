@@ -7,7 +7,7 @@ Temps limite : 2h
 
 ## Problème rencontré
 
-*Coordination pour finir le projet dans les temps
+* Coordination pour finir le projet dans les temps
 
 ## Améliorations 
 
