@@ -135,7 +135,7 @@ body {
 }
 /* -----Loading-----  */
  #learning{
-    color: rgb(65, 214, 65);
+    color: white;
     position: absolute;
     top:500px;
     left:590px;
@@ -156,7 +156,7 @@ body {
 
 .loading span{
     
-    background-color: rgb(65, 214, 65);
+    background-color:white;
 
     width: 20px;
     height: 20px;
@@ -209,7 +209,7 @@ body {
 }
 
 #fullStack{
-    color: rgb(65, 214, 65);
+    color: white;
     position: absolute;
     top:500px;
     left:570px;
